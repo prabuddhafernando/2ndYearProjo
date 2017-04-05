@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Route me</string>
+    <string name="hello_world">please check your internet connection. traffic visualizer need to access GPS and the internet connetion.</string>
+    <string name="map_info">MapAct</string>
+    <string name="action_search">Search</string>
+    <string name="abt_us"> In the business world the important opportunities like meeting the clients on pre-allocated time slots would also be missed by relevant business parties due to traffic. Sometimes they have lost the client’s assurance due to this congestion problem.  The pre scheduled meetings would also have to be adjusted accordingly if the authorized personnel are facing a hectic traffic condition, which creates rest of the members to wait for a longer time. Congestion also leads to increased fuel consumption and automobile emissions (because vehicles are operating less efficiently).
+Due to the above mentioned reasons, the finance department of WSO2 has thought of financing the activities related to employee transportation. And they strongly stated that most of employees get late to office and also get late to be back home.  Therefore according to the company’s point of view, the lack of accurate information about the traffic condition has incurred them a lot of cost and losses from projects. Therefore by facilitating them with an alert system which decide traffic conditions from crowdsourcing traffic data, will impact favorably to finance department as well as the problems mentioned above.
+In order to solve the above issues the company needs to develop a system to make the employees aware about the traffic conditions in their daily travelling routines. “Crowdsourcing traffic data" system is necessary to be implemented.  So they can avoid the congested routes and follow the best route without wasting their time. Mainly users need to interact with a mobile application in their smart phones. The data is received from the each and every user who logs into the system, while turning on their GPS. All the data are handled and analyzed through the Complex Event Processor or CEP of the company and they are stored in the Database for further analysis. 
+MySQL RDBMS was used for implementing the database.  This database consists of number of tables to support the system. This database consists of number of tables to support the system. Mainly developing certain sections and then enhancing them is the adopted developing model for the system. Finally the analyzed data is displayed in a Google map with the traffic condition and suggesting the best route to be taken
+</string>
+    <string name="drawerOpen">Open Navigater Drawer</string>
+    <string name="drawerClose">Close Navigater Drawer</string>
+
+    <string-array name="menu">
+        <item>Satellite</item>
+        <item>Normal</item>
+        <item>Terrain</item>
+        <item>Hybird</item>
+        <item>like us </item>
+        <item>visit us</item>
+></string-array>
+
+</resources>

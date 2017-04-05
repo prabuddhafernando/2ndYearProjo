@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:yourapp="http://schemas.android.com/apk/res-auto"
+     >
+
+    
+    <item
+        android:id="@+id/latlngDisplayer"
+        android:title="View your location Details"/>
+    
+    
+    <item
+        android:id="@+id/help"
+        android:title="Help"/> 
+        <item
+        android:id="@+id/ExitMap"
+        android:title="Exit"/> 
+
+    <item 
+        android:id="@+id/search"
+        android:title="Search"
+         android:icon="@drawable/ic_action_search"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:actionLayout="@layout/search_layout"
+                       
+        />
+    
+</menu>
